@@ -26,8 +26,14 @@ Challenge a friend and see who can claim three squares in a row first!
    ```
 
 3. Start the development server:
+
    ```javascript
    npm start
+   ```
+
+4. Live Preview
+   ```javascript
+   https://react-tic-tac-toe-game-rejoyan.netlify.app/
    ```
 
 ## Gameplay
