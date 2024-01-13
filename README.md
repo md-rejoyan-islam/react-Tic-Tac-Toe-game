@@ -6,61 +6,37 @@ Challenge a friend and see who can claim three squares in a row first!
 
 ## Features
 
-    Two-player mode for head-to-head battles
-    Clean and intuitive UI for easy gameplay ✨
-    Clear win notifications to celebrate victory
-    Restart button for endless rematches
+- Two-player mode for head-to-head battles
+- Clean and intuitive UI for easy gameplay ✨
+- Clear win notifications to celebrate victory
+- Restart button for endless rematches
 
 ## Getting Started
 
-    Clone the repository:
+1. Clone the repository:
 
-```javascript
-git clone https://github.com/your-username/react-tic-tac-toe.git
+   ```javascript
+   git clone https://github.com/md-rejoyan-islam/react-Tic-Tac-Toe-game
+   ```
 
+2. Install dependencies:
 
-Install dependencies:
-Bash
+   ```javascript
+   npm install
+   ```
 
-cd react-tic-tac-toe
-npm install
-
-Use code with caution. Learn more
-Start the development server:
-Bash
-
-npm start
-
-Use code with caution. Learn more
-
-    Open your browser to: http://localhost:3000
+3. Start the development server:
+   ```javascript
+   npm start
+   ```
 
 ## Gameplay
 
-    Player 1 starts by clicking on a square to place an 'X'.
-    Player 2 then clicks on a square to place an 'O'.
-    Players take turns placing their marks until one player achieves three in a row, either horizontally, vertically, or diagonally.
+1. Player 1 starts by clicking on a square to place an 'X'.
+2. Player 2 then clicks on a square to place an 'O'.
+3. Players take turns placing their marks until one player achieves three in a row, either horizontally, vertically, or diagonally.
 
 ## Technologies Used
 
-    React
-    HTML
-    CSS
-
-## Contributing
-
-Feel free to contribute to the project! Fork the repository, make your changes, and submit a pull request.
-
-## Image
-
-Image of React TicTacToe game with two players in actionOpens in a new window
-www.pubnub.com
-React TicTacToe game with two players in action
-
-## Enjoy the game!
-
-```
-
-```
-
-```
+- ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
